@@ -1,0 +1,4 @@
+2018-02-02 08:50:12 INFO  framework:114 -  *****************************************************  - (in getSetupDetails) 
+2018-02-02 08:50:12 INFO  framework:115 -  ***** LessoHome Execution Started *****  - (in getSetupDetails) 
+2018-02-02 08:50:12 INFO  framework:42 - This is Windows - (in launchURL) 
+2018-02-02 08:50:12 INFO  framework:142 - The Browser is Chrome - (in launchURL) 
